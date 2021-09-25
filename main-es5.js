@@ -13391,7 +13391,7 @@
 
       var environment = {
         technician_mails: "['tanmay.v.hiremath@gmail.com','gakshat2207@gmail.com']",
-        production: false,
+        production: true,
         serverUrl: 'https://itc.gymkhana.iitb.ac.in/tl/',
         loginUrl: 'https://gymkhana.iitb.ac.in/profiles/oauth/authorize/?client_id=4IIH8kT8qmBRLQnmrjwauuos60vC9xJrXZD33tIV&response_type=code&scope=basic',
         jdataKey: 'Kb8VUT3E9q7vshw21',
